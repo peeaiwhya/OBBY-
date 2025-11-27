@@ -1,0 +1,5 @@
+{
+  "name": "AI Obby Maker",
+  "description": "An AI-powered 2D Obstacle Course (Obby) generator. Describe a level, and the AI creates it for you to play immediately.",
+  "requestFramePermissions": []
+}
